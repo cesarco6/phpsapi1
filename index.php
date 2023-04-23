@@ -2,4 +2,4 @@
 
 
 require __DIR__. '/vendor/autoload.php';
-require 'src/Index.php';
+require 'src/Routes/RouterMain.php';
